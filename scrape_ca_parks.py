@@ -31,15 +31,18 @@ Usage:
     --verbose          Print progress details
 """
 
+from __future__ import annotations
+
 import argparse
 import json
 import re
 import sys
 import time
+import traceback
 from urllib.parse import urljoin
 
 import requests
-from bs4 import BeautifulSoup, NavigableString
+from bs4 import BeautifulSoup, NavigableString, Tag
 
 BASE_URL = "https://www.parks.ca.gov"
 FIND_A_PARK_URL = f"{BASE_URL}/Find-a-Park"
@@ -70,18 +73,29 @@ def get_park_list(session: requests.Session) -> list[dict]:
 
     parks = []
 
-    # The park dropdown is a <select> with <option value="page_id">Park Name</option>
-    # There may also be links in an <ul> or similar — we try both approaches.
+    # The park dropdown is <select id="park-name"> with <option value="page_id">Park Name</option>
+    # Target this select specifically to avoid picking up other numeric dropdowns
+    # (e.g. the hidden distance filter with values 10, 25, 50, 100).
 
-    # Approach 1: Look for <select> with park options
-    for select in soup.find_all("select"):
-        for option in select.find_all("option"):
+    # Approach 1: Target the park-name select directly
+    park_select = soup.find("select", id="park-name")
+    if park_select:
+        for option in park_select.find_all("option"):
             val = option.get("value", "").strip()
             name = option.get_text(strip=True)
             if val and name and val.isdigit():
                 parks.append({"name": name, "page_id": val})
 
-    # Approach 2: If no select found, look for links matching /?page_id=NNN
+    # Approach 2: Fallback — any select with park-sized page_ids (> 200)
+    if not parks:
+        for select in soup.find_all("select"):
+            for option in select.find_all("option"):
+                val = option.get("value", "").strip()
+                name = option.get_text(strip=True)
+                if val and name and val.isdigit() and int(val) > 200:
+                    parks.append({"name": name, "page_id": val})
+
+    # Approach 3: If still no select found, look for links matching /?page_id=NNN
     if not parks:
         for a_tag in soup.find_all("a", href=True):
             href = a_tag["href"]
@@ -142,16 +156,18 @@ def extract_list_items(soup, heading_text: str) -> list[str]:
             # Walk siblings to find the next <ul>
             el = heading
             while el:
-                el = el.next_sibling if hasattr(el, 'next_sibling') else None
+                el = el.next_sibling
                 if el is None:
                     break
-                if hasattr(el, 'name'):
-                    if el.name == "ul":
-                        return [li.get_text(strip=True) for li in el.find_all("li")]
-                    # Also check if the list is nested inside a parent div
-                    nested_ul = el.find("ul") if hasattr(el, 'find') else None
-                    if nested_ul:
-                        return [li.get_text(strip=True) for li in nested_ul.find_all("li")]
+                # NavigableString is a str subclass — skip text nodes entirely
+                if not isinstance(el, Tag):
+                    continue
+                if el.name == "ul":
+                    return [li.get_text(strip=True) for li in el.find_all("li")]
+                # Also check if the list is nested inside a parent div/span
+                nested_ul = el.find("ul")
+                if nested_ul:
+                    return [li.get_text(strip=True) for li in nested_ul.find_all("li")]
     return []
 
 
@@ -409,18 +425,20 @@ def scrape_park(session: requests.Session, page_id: str, verbose: bool = False) 
         if "brochure" in heading.get_text(strip=True).lower():
             el = heading.find_next_sibling()
             while el:
-                if hasattr(el, 'name') and el.name in ["h3", "h4", "h2"]:
+                if not isinstance(el, Tag):
+                    el = el.next_sibling
+                    continue
+                if el.name in ["h3", "h4", "h2"]:
                     break
-                if hasattr(el, 'find_all'):
-                    for a in el.find_all("a", href=True):
-                        href = a["href"]
-                        if href.endswith(".pdf"):
-                            full_url = urljoin(BASE_URL, href)
-                            brochures.append({
-                                "name": a.get_text(strip=True),
-                                "url": full_url
-                            })
-                el = el.next_sibling if hasattr(el, 'next_sibling') else None
+                for a in el.find_all("a", href=True):
+                    href = a["href"]
+                    if href.endswith(".pdf"):
+                        full_url = urljoin(BASE_URL, href)
+                        brochures.append({
+                            "name": a.get_text(strip=True),
+                            "url": full_url
+                        })
+                el = el.next_sibling
     park["brochure_urls"] = brochures
 
     # --- Maps ---
@@ -443,15 +461,17 @@ def scrape_park(session: requests.Session, page_id: str, verbose: bool = False) 
         if "related" in heading.get_text(strip=True).lower():
             el = heading.find_next_sibling()
             while el:
-                if hasattr(el, 'name') and el.name in ["h3", "h4", "h5"]:
+                if not isinstance(el, Tag):
+                    el = el.next_sibling
+                    continue
+                if el.name in ["h3", "h4", "h5"]:
                     break
-                if hasattr(el, 'find_all'):
-                    for a in el.find_all("a", href=True):
-                        related.append({
-                            "name": a.get_text(strip=True),
-                            "url": urljoin(BASE_URL, a["href"])
-                        })
-                el = el.next_sibling if hasattr(el, 'next_sibling') else None
+                for a in el.find_all("a", href=True):
+                    related.append({
+                        "name": a.get_text(strip=True),
+                        "url": urljoin(BASE_URL, a["href"])
+                    })
+                el = el.next_sibling
     park["related_pages"] = related
 
     # --- Description (main body text) ---
@@ -568,8 +588,10 @@ def main():
                 print(f"         → {acts} activities, {desc_len} chars description, {acres_str}")
 
         except Exception as e:
+            tb = traceback.format_exc()
             print(f"  ERROR scraping {name}: {e}")
-            errors.append({"name": name, "page_id": pid, "error": str(e)})
+            print(tb)
+            errors.append({"name": name, "page_id": pid, "error": str(e), "traceback": tb})
 
         # Be polite — don't hammer the server
         if i < total:
