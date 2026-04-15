@@ -1,0 +1,1542 @@
+{
+  "metadata": {
+    "source": "parks.ca.gov",
+    "scraped_at": "2026-04-15T02:28:51+0000",
+    "total_parks": 1,
+    "errors": 287
+  },
+  "parks": [
+    {
+      "page_id": "1172",
+      "url": "https://www.parks.ca.gov/?page_id=1172",
+      "name": "Carnegie SVRA",
+      "description": "Stay on Trail to keep these areas OPEN. Riding off trail will result in trail closures.\n\nREGISTRATION:When operating an OHV on public land, you must display either a license plate or an OHV registration sticker. California Nonresident OHV Use Permits, and OHV stickers from states that have an OHV program.\n\nPhone:(925) 447-9027Emergency 911Fees:Day use is $5.00. Camping is $10.00 per night and per vehicle.Park Brochure & MapAddress:18600 west Corral Hollow Road, Tracy, CA 95376Get DirectionsRiding Facilities:Motocross TrackATV/MC Track70cc Children's Track110cc Beginner TrackWeather Conditions:Carnegie SVRA Weather LinkThe hills at Carnegie SVRA will be closed for a minimum of 12 hours when we reach the following rain thresholds, as measured by the gauge at the park entrance.• More than 0.30\" in 12 hours• More than 0.50\" in 24 hours• More than 0.65\" in 48 hours\n\nRECEIVE TEXTS ABOUT CARNEGIE SVRA CONDITIONS!Receive a text alert on your mobile device about wet weather closures and reopening's, track grooming, and other park conditions.Text \"OHV\" to(833) 257-9513to sign up. [12/27/25]Dogs:Allowed on a tended 6 foot leash or confined in an enclosed vehicle, tent, or pen. Dogs, other than service animals, are prohibited on all motorized trails.\n\nJOIN THE CARNEGIE ADVISORY TEAM\n\nThe Carnegie Advisory Team (CAT) mission is to provide input on park projects and operations that relate to the user’s recreational experience and safety. The overall goal is to give stakeholders a voice with park staff to present ideas, complaints, and views on current projects, future projects, operations, and public outreach. CAT meetings provide a forum for park staff to inform stakeholders on park functions, park planning, and regulations and how they pertain to the way the park is or will be operated.\n\nThis partnership allows management to hear the visitor’s ideas and concerns and consider them when making decisions on activities that will affect the park. The partnership also brings transparency to the stakeholders on management decisions regarding park planning and operations.\n\nMeetings are typically held on the 3rd Tuesday of the month at 4:30 pm to discuss new projects in the park and any relevant park updates. Duties also include trail creation and review, educating other visitors and point of contacts for the public to voice concerns and discuss with park staff.\n\nJoin us Tuesday,March 17th, 2026 at 4:30 pm.\n\nLocated in the hills of eastern Alameda and western San Joaquin counties, this off-highway vehicle park has more than 1,300 acres of riding area with over 80 miles of trails for motorcycles and ATVs. A 2-acre 4x4 play area welcomes trucks, jeeps, and sides by sides. The 4x4 area features numerous manmade obstacles for drivers to test their skills and vehicles with 4-wheel drive operations.\n\nThe park is characterized by rolling hills, dry rocky washes, and steep, rugged canyons with outstanding opportunities for hillclimbs and many scenic views. Carnegie provides a setting for off-highway vehicle users of all skill levels. The hills are divided into two use areas: open riding and designated trails only in Resource Management Areas (RMAs). Roads, trails, and riding areas are two way; please watch for oncoming traffic.\n\nEnjoy the day in our day use areas, complete with ramadas, tables, BBQ pits and bathrooms nearby in the valley floor. There are picnic areas in the hills located in the areas of Black Bear, Los Osos, Phase III, and Pottery.\n\nView the Park Accessibility InformationWatch Us On Instagram\n\nCA Adventours LLC for ATV Tours",
+      "hours": "",
+      "contact_phone": "",
+      "dogs_allowed": "",
+      "fees": [],
+      "activities": [],
+      "facilities_overnight": [],
+      "facilities_other": [],
+      "facilities_boating": [],
+      "activities_day_use": [],
+      "trail_use": [],
+      "directions": "",
+      "address": "",
+      "passes_accepted": [],
+      "concessionaires": [],
+      "brochure_urls": [],
+      "related_pages": [
+        {
+          "name": "State Vehicular Recreation Areas",
+          "url": "https://www.parks.ca.gov/?page_id=1170"
+        },
+        {
+          "name": "OHV Regulations",
+          "url": "https://www.parks.ca.gov/?page_id=24947"
+        },
+        {
+          "name": "Map of the SVRA",
+          "url": "https://www.parks.ca.gov/?page_id=1173"
+        },
+        {
+          "name": "Camping",
+          "url": "https://www.parks.ca.gov/?page_id=24943"
+        },
+        {
+          "name": "Trails",
+          "url": "https://www.parks.ca.gov/?page_id=1178"
+        },
+        {
+          "name": "Tracks",
+          "url": "https://www.parks.ca.gov/?page_id=24946"
+        },
+        {
+          "name": "4x4 Area",
+          "url": "https://www.parks.ca.gov/?page_id=25029"
+        },
+        {
+          "name": "Carnegie SVRA Events",
+          "url": "https://www.parks.ca.gov/?page_id=23718"
+        },
+        {
+          "name": "Self Guided Activities",
+          "url": "https://www.parks.ca.gov/?page_id=26339"
+        },
+        {
+          "name": "Volunteer Opportunities",
+          "url": "https://www.parks.ca.gov/?page_id=26010"
+        },
+        {
+          "name": "Resource Management",
+          "url": "https://www.parks.ca.gov/?page_id=24944"
+        },
+        {
+          "name": "Cultural Resources",
+          "url": "https://www.parks.ca.gov/?page_id=24945"
+        },
+        {
+          "name": "Natural Resources",
+          "url": "https://www.parks.ca.gov/?page_id=1174"
+        },
+        {
+          "name": "Current Conditions and Updates",
+          "url": "https://www.parks.ca.gov/?page_id=29927"
+        },
+        {
+          "name": "K-12 Education Programs",
+          "url": "https://www.parks.ca.gov/?page_id=1176"
+        },
+        {
+          "name": "OHMVR FAQ",
+          "url": "https://ohv.parks.ca.gov/?page_id=26294"
+        }
+      ],
+      "news_releases": [],
+      "restrictions": "",
+      "reservation_url": "",
+      "accessibility_url": "https://www.parks.ca.gov/AccessibleFeatures/Details/1172",
+      "acreage": 1300.0,
+      "acreage_raw": "more than 1,300 acres",
+      "map_url": "",
+      "google_maps_url": "https://www.google.com/maps/dir/Carnegie+State+Vehicular+Recreation+Area,+18600+Corral+Hollow+Rd,+Tracy,+CA+95376/@37.63412,-121.5467282,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80902682ce32ee33:0x485240da33d889a1!2m2!1d-121.5445395!2d37.63412?hl=en"
+    }
+  ],
+  "errors": [
+    {
+      "name": "Admiral William Standley SRA",
+      "page_id": "424",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Ahjumawi Lava Springs SP",
+      "page_id": "464",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Albany SMR",
+      "page_id": "22880",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Anderson Marsh SHP",
+      "page_id": "483",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Andrew Molera SP",
+      "page_id": "582",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Angel Island SP",
+      "page_id": "468",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Año Nuevo SP",
+      "page_id": "523",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Antelope Valley California Poppy Reserve SNR",
+      "page_id": "627",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Antelope Valley Indian Museum SHP",
+      "page_id": "632",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Anza-Borrego Desert SP",
+      "page_id": "638",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Armstrong Redwoods SNR",
+      "page_id": "450",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Arthur B. Ripley Desert Woodland SP",
+      "page_id": "634",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Asilomar SB",
+      "page_id": "566",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Auburn SRA",
+      "page_id": "502",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Austin Creek SRA",
+      "page_id": "452",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Azalea SNR",
+      "page_id": "420",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bale Grist Mill SHP",
+      "page_id": "482",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bean Hollow SB",
+      "page_id": "527",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Benbow SRA",
+      "page_id": "426",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Benicia Capitol SHP",
+      "page_id": "475",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Benicia SRA",
+      "page_id": "476",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bethany Reservoir SRA",
+      "page_id": "562",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bidwell Mansion SHP",
+      "page_id": "460",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bidwell-Sacramento River SP",
+      "page_id": "463",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Big Basin Redwoods SP",
+      "page_id": "540",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bodie SHP",
+      "page_id": "509",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bolsa Chica SB",
+      "page_id": "642",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Border Field SP",
+      "page_id": "664",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Bothe-Napa Valley SP",
+      "page_id": "477",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Brannan Island SRA",
+      "page_id": "487",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Burleigh H. Murray Ranch Prop",
+      "page_id": "535",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Burton Creek SP",
+      "page_id": "512",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Butano SP",
+      "page_id": "536",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Butte City Project Prop",
+      "page_id": "25601",
+      "error": "404 Client Error: Not Found for url: https://www.parks.ca.gov/?page_id=25601"
+    },
+    {
+      "name": "Calaveras Big Trees SP",
+      "page_id": "551",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "California Citrus SHP",
+      "page_id": "649",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "California Indian Heritage Center Prop",
+      "page_id": "22628",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "California State Capitol Museum",
+      "page_id": "495",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "California State Mining and Mineral Museum Prop",
+      "page_id": "588",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "California State Railroad Museum POI",
+      "page_id": "668",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Cambria SMP",
+      "page_id": "27201",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Candlestick Point SRA",
+      "page_id": "519",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Cardiff SB",
+      "page_id": "656",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Carlsbad SB",
+      "page_id": "653",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Carmel River SB",
+      "page_id": "567",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Carpinteria SB",
+      "page_id": "599",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Caspar Headlands SB",
+      "page_id": "445",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Caspar Headlands SNR",
+      "page_id": "444",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Castaic Lake SRA",
+      "page_id": "628",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Castle Crags SP",
+      "page_id": "454",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Castle Rock SP",
+      "page_id": "538",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Caswell Memorial SP",
+      "page_id": "557",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Cayucos SB",
+      "page_id": "596",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "China Camp SP",
+      "page_id": "466",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Chino Hills SP",
+      "page_id": "648",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Chumash Painted Cave SHP",
+      "page_id": "602",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Clay Pit SVRA",
+      "page_id": "25572",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Clear Lake SP",
+      "page_id": "473",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Colonel Allensworth SHP",
+      "page_id": "583",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Columbia SHP",
+      "page_id": "552",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Colusa-Sacramento River SRA",
+      "page_id": "461",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Corona del Mar SB",
+      "page_id": "652",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Crystal Cove SP",
+      "page_id": "644",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Cuyamaca Rancho SP",
+      "page_id": "667",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "D. L. Bliss SP",
+      "page_id": "505",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Del Norte Coast Redwoods SP",
+      "page_id": "414",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Delta Meadows Prop",
+      "page_id": "492",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Dockweiler SB",
+      "page_id": "617",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Doheny SB",
+      "page_id": "645",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Donner Memorial SP",
+      "page_id": "503",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Dos Rios",
+      "page_id": "31363",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Eastern Kern County Onyx Ranch SVRA",
+      "page_id": "28617",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Ed Z'berg Sugar Pine Point SP",
+      "page_id": "510",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "El Capitán SB",
+      "page_id": "601",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "El Presidio de Santa Barbara SHP",
+      "page_id": "608",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Emerald Bay SP",
+      "page_id": "506",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Emeryville Crescent SMR",
+      "page_id": "22881",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Emma Wood SB",
+      "page_id": "604",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Empire Mine SHP",
+      "page_id": "499",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Estero Bluffs SP",
+      "page_id": "22263",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Folsom Lake SRA",
+      "page_id": "500",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Folsom Powerhouse SHP",
+      "page_id": "501",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Fort Humboldt SHP",
+      "page_id": "665",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Fort Ord Dunes SP",
+      "page_id": "580",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Fort Ross SHP",
+      "page_id": "449",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Fort Tejon SHP",
+      "page_id": "585",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Franks Tract SRA",
+      "page_id": "490",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Fremont Peak SP",
+      "page_id": "564",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Garrapata SP",
+      "page_id": "579",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Gaviota SP",
+      "page_id": "606",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "George J. Hatfield SRA",
+      "page_id": "556",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Governor's Mansion SHP",
+      "page_id": "498",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Gray Whale Cove SB",
+      "page_id": "528",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Great Valley Grasslands SP",
+      "page_id": "559",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Greenwood SB",
+      "page_id": "447",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Grizzly Creek Redwoods SP",
+      "page_id": "421",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Grover Hot Springs SP",
+      "page_id": "508",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Half Moon Bay SB",
+      "page_id": "531",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Harmony Headlands SP",
+      "page_id": "25735",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Harry A. Merlo SRA",
+      "page_id": "431",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Hatton Canyon Prop",
+      "page_id": "22273",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Hearst San Simeon SHM",
+      "page_id": "591",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Hearst San Simeon SP",
+      "page_id": "590",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Heber Dunes SVRA",
+      "page_id": "25642",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Hendy Woods SP",
+      "page_id": "438",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Henry Cowell Redwoods SP",
+      "page_id": "546",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Henry W. Coe SP",
+      "page_id": "561",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Hollister Hills SVRA",
+      "page_id": "1179",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Humboldt Lagoons SP",
+      "page_id": "416",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Humboldt Redwoods SP",
+      "page_id": "425",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Hungry Valley SVRA",
+      "page_id": "1192",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Huntington SB",
+      "page_id": "643",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Indian Grinding Rock SHP",
+      "page_id": "553",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Indio Hills Palms Prop",
+      "page_id": "640",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Ishxenta SP",
+      "page_id": "569",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Jack London SHP",
+      "page_id": "478",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Jedediah Smith Redwoods SP",
+      "page_id": "413",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "John B. Dewitt Redwoods SNR",
+      "page_id": "22274",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "John Little SNR",
+      "page_id": "568",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Jug Handle SNR",
+      "page_id": "441",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Julia Pfeiffer Burns SP",
+      "page_id": "578",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Kenneth Hahn SRA",
+      "page_id": "612",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Kings Beach SRA",
+      "page_id": "511",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Kruse Rhododendron SNR",
+      "page_id": "448",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "La Purísima Mission SHP",
+      "page_id": "598",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Lake Del Valle SRA",
+      "page_id": "537",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Lake Oroville SRA",
+      "page_id": "462",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Lake Perris SRA",
+      "page_id": "651",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Lake Valley SRA",
+      "page_id": "515",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Leland Stanford Mansion SHP",
+      "page_id": "489",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Leo Carrillo SP",
+      "page_id": "616",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Leucadia SB",
+      "page_id": "661",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Lighthouse Field SB",
+      "page_id": "550",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Limekiln SP",
+      "page_id": "577",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Little River SB",
+      "page_id": "419",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Locke Boarding House Museum POI",
+      "page_id": "24343",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Los Angeles SHP",
+      "page_id": "22272",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Los Encinos SHP",
+      "page_id": "619",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Los Osos Oaks SNR",
+      "page_id": "597",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "MacKerricher SP",
+      "page_id": "436",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mailliard Redwoods SNR",
+      "page_id": "439",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Malakoff Diggins SHP",
+      "page_id": "494",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Malibu Creek SP",
+      "page_id": "614",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Malibu Lagoon SB",
+      "page_id": "835",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Manchester SP",
+      "page_id": "437",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mandalay SB",
+      "page_id": "609",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Manresa SB",
+      "page_id": "545",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Marconi Conference Center SHP",
+      "page_id": "467",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Marina SB",
+      "page_id": "581",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Marsh Creek  SP",
+      "page_id": "525",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Marshall Gold Discovery SHP",
+      "page_id": "484",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Martial Cottle Park SRA",
+      "page_id": "23450",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "McArthur-Burney Falls Memorial SP",
+      "page_id": "455",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "McConnell SRA",
+      "page_id": "554",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "McGrath SB",
+      "page_id": "607",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "McLaughlin Eastshore State Park SS",
+      "page_id": "520",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mendocino Headlands SP",
+      "page_id": "442",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mendocino Woodlands SP",
+      "page_id": "443",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Millerton Lake SRA",
+      "page_id": "587",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mono Lake Tufa SNR",
+      "page_id": "514",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Montaña de Oro SP",
+      "page_id": "592",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Montara SB",
+      "page_id": "532",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Monterey SB",
+      "page_id": "576",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Monterey SHP",
+      "page_id": "575",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Montgomery Woods SNR",
+      "page_id": "434",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Moonlight SB",
+      "page_id": "659",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Morro Bay SP",
+      "page_id": "594",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Morro Strand SB",
+      "page_id": "593",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Moss Landing SB",
+      "page_id": "574",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mount Diablo SP",
+      "page_id": "517",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mount San Jacinto SP",
+      "page_id": "636",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Mount Tamalpais SP",
+      "page_id": "471",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Natural Bridges SB",
+      "page_id": "541",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Navarro River Redwoods SP",
+      "page_id": "435",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "New Brighton SB",
+      "page_id": "542",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Oceano Dunes SVRA",
+      "page_id": "1207",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Ocotillo Wells SVRA",
+      "page_id": "1217",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Old Sacramento SHP",
+      "page_id": "497",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Old Town San Diego SHP",
+      "page_id": "663",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Olompali SHP",
+      "page_id": "465",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pacheco SP",
+      "page_id": "560",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pacifica SB",
+      "page_id": "524",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Palomar Mountain SP",
+      "page_id": "637",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pelican SB",
+      "page_id": "412",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pescadero SB",
+      "page_id": "522",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Petaluma Adobe SHP",
+      "page_id": "474",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pfeiffer Big Sur SP",
+      "page_id": "570",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Picacho SRA",
+      "page_id": "641",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pigeon Point Light Station SHP",
+      "page_id": "533",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pío Pico SHP",
+      "page_id": "621",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pismo SB",
+      "page_id": "595",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Placerita Canyon SP",
+      "page_id": "622",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Plumas-Eureka SP",
+      "page_id": "507",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Point Cabrillo Light Station SHP",
+      "page_id": "22276",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Point Dume SB",
+      "page_id": "623",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Point Lobos SNR",
+      "page_id": "571",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Point Mugu SP",
+      "page_id": "630",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Point Sal SB",
+      "page_id": "605",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Point Sur SHP",
+      "page_id": "565",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Pomponio SB",
+      "page_id": "521",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Portola Redwoods SP",
+      "page_id": "539",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Prairie City SVRA",
+      "page_id": "1221",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Prairie Creek Redwoods SP",
+      "page_id": "415",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Providence Mountains SRA",
+      "page_id": "615",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Railtown 1897 SHP",
+      "page_id": "491",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Rancho San Andrés Castro Adobe Prop",
+      "page_id": "22271",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Red Rock Canyon SP",
+      "page_id": "631",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Refugio SB",
+      "page_id": "603",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Reynolds WC",
+      "page_id": "428",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Richardson Grove SP",
+      "page_id": "422",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Rio de Los Angeles State Park SRA",
+      "page_id": "22277",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Robert H. Meyer Memorial SB",
+      "page_id": "633",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Robert Louis Stevenson SP",
+      "page_id": "472",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Robert W. Crown Memorial SB",
+      "page_id": "526",
+      "error": "HTTPSConnectionPool(host='www.parks.ca.gov', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "name": "Russian Gulch SP",
+      "page_id": "432",
+      "error": "HTTPSConnectionPool(host='www.parks.ca.gov', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "name": "Saddleback Butte SP",
+      "page_id": "618",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Salinas River SB",
+      "page_id": "573",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Salt Point SP",
+      "page_id": "453",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Salton Sea SRA",
+      "page_id": "639",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Samuel P. Taylor SP",
+      "page_id": "469",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Bruno Mountain SP",
+      "page_id": "518",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Buenaventura SB",
+      "page_id": "600",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Clemente SB",
+      "page_id": "646",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Elijo SB",
+      "page_id": "662",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Gregorio SB",
+      "page_id": "529",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Juan Bautista SHP",
+      "page_id": "563",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Luis Reservoir SRA",
+      "page_id": "558",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Onofre SB",
+      "page_id": "647",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Pasqual Battlefield SHP",
+      "page_id": "655",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "San Timoteo Canyon Prop",
+      "page_id": "22882",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Santa Cruz Mission SHP",
+      "page_id": "548",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Santa Monica SB",
+      "page_id": "624",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Santa Susana Pass SHP",
+      "page_id": "611",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Schooner Gulch SB",
+      "page_id": "446",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Seacliff SB",
+      "page_id": "543",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Shasta SHP",
+      "page_id": "456",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Silver Strand SB",
+      "page_id": "654",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Silverwood Lake SRA",
+      "page_id": "650",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sinkyone Wilderness SP",
+      "page_id": "429",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Smithe Redwoods SNR",
+      "page_id": "427",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sonoma Coast SP",
+      "page_id": "451",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sonoma SHP",
+      "page_id": "479",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "South Carlsbad SB",
+      "page_id": "660",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "South Yuba River SP",
+      "page_id": "496",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Standish-Hickey SRA",
+      "page_id": "423",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "State Indian Museum SHP",
+      "page_id": "486",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Stone Lake Prop",
+      "page_id": "493",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sue-meg SP",
+      "page_id": "417",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sugarloaf Ridge SP",
+      "page_id": "481",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sunset SB",
+      "page_id": "544",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sutter Buttes SP",
+      "page_id": "23452",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Sutter's Fort SHP",
+      "page_id": "485",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Tahoe SRA",
+      "page_id": "504",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "The Forest of Nisene Marks SP",
+      "page_id": "666",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Thornton SB",
+      "page_id": "530",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Tijuana Estuary NP POI",
+      "page_id": "669",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Tolowa Dunes SP",
+      "page_id": "430",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Tomales Bay SP",
+      "page_id": "470",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Tomo-Kahni SHP",
+      "page_id": "610",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Topanga SP",
+      "page_id": "629",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Torrey Pines SB",
+      "page_id": "658",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Torrey Pines SNR",
+      "page_id": "657",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Trinidad SB",
+      "page_id": "418",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Trione-Annadel SP",
+      "page_id": "480",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Tule Elk SNR",
+      "page_id": "584",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Turlock Lake SRA",
+      "page_id": "555",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Twin Lakes SB",
+      "page_id": "547",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Van Damme SP",
+      "page_id": "433",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Verdugo Mountains Prop",
+      "page_id": "635",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Ward Creek Prop",
+      "page_id": "513",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Washoe Meadows SP",
+      "page_id": "516",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Wassama Round House SHP",
+      "page_id": "586",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Watts Towers of Simon Rodia SHP",
+      "page_id": "613",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Weaverville Joss House SHP",
+      "page_id": "457",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Westport-Union Landing SB",
+      "page_id": "440",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Wilder Ranch SP",
+      "page_id": "549",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Wildwood Canyon SP",
+      "page_id": "22883",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Will Rogers SB",
+      "page_id": "625",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Will Rogers SHP",
+      "page_id": "626",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "William B. Ide Adobe SHP",
+      "page_id": "458",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Woodland Opera House SHP",
+      "page_id": "488",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Woodson Bridge SRA",
+      "page_id": "459",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Zmudowski SB",
+      "page_id": "572",
+      "error": "'int' object has no attribute 'find_all'"
+    },
+    {
+      "name": "Within 10 miles",
+      "page_id": "10",
+      "error": "404 Client Error: Not Found for url: https://www.parks.ca.gov/?page_id=10"
+    },
+    {
+      "name": "Within 25 Miles",
+      "page_id": "25",
+      "error": "404 Client Error: Not Found for url: https://www.parks.ca.gov/?page_id=25"
+    },
+    {
+      "name": "Within 50 miles",
+      "page_id": "50",
+      "error": "404 Client Error: Not Found for url: https://www.parks.ca.gov/?page_id=50"
+    },
+    {
+      "name": "Within 100 miles",
+      "page_id": "100",
+      "error": "404 Client Error: Not Found for url: https://www.parks.ca.gov/?page_id=100"
+    }
+  ]
+}
